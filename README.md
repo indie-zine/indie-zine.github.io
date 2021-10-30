@@ -1,5 +1,7 @@
 # in_die-zine
 
+See the site live at https://voenocturo.github.io/in_die-zine/
+
 ## Building/prerequisites
 
 In order to build the site, you'll need ruby installed (I recommend installing with [`asdf`](https://asdf-vm.com/)), and some plugins.
