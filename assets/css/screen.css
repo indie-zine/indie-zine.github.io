@@ -899,3 +899,12 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+/** Contributor cards (about page) **/
+.contributors-row > .contributor {
+    margin-bottom: 15px !important;
+}
+
+.card-footer .contributor-contact {
+    font-size: .9rem;
+}
