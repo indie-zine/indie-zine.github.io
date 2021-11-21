@@ -1,6 +1,6 @@
 ---
 layout: page
-title: In_die zine
+title: in*die zine
 permalink: /about
 comments: true
 ---
@@ -17,7 +17,7 @@ comments: true
       <div class="col-sm-12">
         <h2>Contributors</h2>
 
-        <p>Lots of cool people are involved with the In*die Zine, check out their bios below.</p>
+        <p>Lots of cool people are involved with the in*die zine, check out their bios below.</p>
 
         <div class="card-deck contributors-row">
           <div class="contributor card">
