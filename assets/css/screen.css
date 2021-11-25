@@ -269,7 +269,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: var(--light-gray);
+    color: var(--darkish-gray);
 }
 
 span.post-read-more {
