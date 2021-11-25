@@ -6,6 +6,7 @@ License: https://www.wowthemes.net/freebies-license/
 :root {
   --darkest-gray: #191919;
   --dark-gray: #212529;
+  --darkish-gray: #383838;
   --gray: #7f7f7f;
   --light-gray: #b2b2b2;
   --lighter-gray: #d4d4d4;
@@ -189,7 +190,7 @@ section.recent-posts {
 
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
-    color: var(--light-gray);
+    color: var(--darkish-gray);
     font-size: 0.95rem;
     line-height: 1.6;
     font-weight: 400;
