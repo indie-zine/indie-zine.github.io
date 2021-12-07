@@ -35,6 +35,25 @@ body {
   color: var(--dark-gray);
 }
 
+.contributor .card-role {
+  margin: 0 0 1rem 0;
+  font-style: italic;
+  font-size: 85%;
+  color: var(--gray);
+}
+
+.contributor h5.card-title {
+  margin-bottom: 0.5rem;
+}
+
+.contributor .card-body {
+  padding-bottom: 0.5rem;
+}
+
+.contributor .card-footer {
+  padding-top: 0.25rem;
+}
+
 .card {
   background-color: var(--ghost-white);
 }

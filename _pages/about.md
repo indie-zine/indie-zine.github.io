@@ -22,40 +22,88 @@ comments: true
         <div class="card-deck contributors-row">
           <div class="contributor card">
             <div class="card-body">
-              <h5 class="card-title">Hugh Mann</h5>
-              <p class="card-text">Hugh is most certainly a real person. Hobbies include: consuming nutrients throughout the day, hibernating when the sun has set, and writing human roleplaying games.</p>
+              <h5 class="card-title">Nico</h5>
+              <p class="card-role">Project Organizer, Graphics Artist, and Writer</p>
+              <p class="card-text">An RPG person interested in creating more RPG things. Let's endure despite the way things are. Good luck to us!</p>
             </div>
             <div class="card-footer">
-              <span class="contributor-contact"><a href="https://twitter.com/in_die_zine"><i class="fab fa-twitter"></i> @hugh_mann_the_human</a></span>
+              <span class="contributor-contact"><a href="https://twitter.com/san_tagoy"><i class="fab fa-twitter"></i> @san_tagoy</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://www.instagram.com/san_tagoy/"><i class="fab fa-instagram"></i> san_tagoy</a></span>
             </div>
           </div>
           <div class="contributor card">
             <div class="card-body">
-              <h5 class="card-title">Wingless Jane</h5>
-              <p class="card-text">Jane doesn't have secret wings, that's ridiculous. She just likes to write roleplaying games (about having wings).</p>
+              <h5 class="card-title">Andrew</h5>
+              <p class="card-role">Writer</p>
+              <p class="card-text">TTRPG designer, short fiction author, and video creator (terms & conditions apply)</p>
             </div>
             <div class="card-footer">
-              <span class="contributor-contact"><a href="https://twitter.com/in_die_zine"><i class="fab fa-twitter"></i> @flightless_and_sad_about_it</a></span>
             </div>
           </div>
         </div>
         <div class="card-deck contributors-row">
           <div class="contributor card">
             <div class="card-body">
-              <h5 class="card-title">Goody Two-Legs</h5>
-              <p class="card-text">Perambulation, bifurcated pants, breathing air - you name it, Goody Two-Legs has done it. What with being a land-dweller and all.</p>
+              <h5 class="card-title">Sen.H.H.S.</h5>
+              <p class="card-role">Writer</p>
+              <p class="card-text">TTRPG freelancer and frequent song writer for In*die zine.</p>
             </div>
             <div class="card-footer">
-              <span class="contributor-contact"><a href="https://twitter.com/in_die_zine"><i class="fab fa-twitter"></i> @goody_two_legs</a></span>
             </div>
           </div>
           <div class="contributor card">
             <div class="card-body">
-              <h5 class="card-title">Medusa Gordon</h5>
-              <p class="card-text">No relation.</p>
+              <h5 class="card-title">Calvin</h5>
+              <p class="card-role">Writer</p>
+              <p class="card-text">Game designer in it for building new worlds and ways to be</p>
             </div>
             <div class="card-footer">
-              <span class="contributor-contact"><a href="https://twitter.com/in_die_zine"><i class="fab fa-twitter"></i> @not_really_medusa</a></span>
+            </div>
+          </div>
+        </div>
+        <div class="card-deck contributors-row">
+          <div class="contributor card">
+            <div class="card-body">
+              <h5 class="card-title">Alda</h5>
+              <p class="card-role">Writer, Site Maintenance</p>
+              <p class="card-text">game designer, writer, and cartographer</p>
+            </div>
+            <div class="card-footer">
+              <span class="contributor-contact"><a href="https://twitter.com/Aldayuan"><i class="fab fa-twitter"></i> @Aldayuan</a></span>
+            </div>
+          </div>
+          <div class="contributor card">
+            <div class="card-body">
+              <h5 class="card-title">Danielle</h5>
+              <p class="card-role">Writer</p>
+              <p class="card-text">You need a list for that? Ok, I have a pen, some paper, also a pencil, 2 erasers, theme music, & a cup of tea.</p>
+            </div>
+            <div class="card-footer">
+              <span class="contributor-contact"><a href="https://twitter.com/DragonTurtle"><i class="fab fa-twitter"></i> @DragonTurtle</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://twitter.com/HyperHalfling"><i class="fab fa-twitter"></i> @HyperHalfling</a></span>
+            </div>
+          </div>
+        </div>
+        <div class="card-deck contributors-row">
+          <div class="contributor card">
+            <div class="card-body">
+              <h5 class="card-title">angela</h5>
+              <p class="card-role">content swiss knife</p>
+              <p class="card-text">I daily do graphic design and layout work. Sometimes, there's a pen in front of me so I draw creatures</p>
+            </div>
+            <div class="card-footer">
+              <span class="contributor-contact"><a href="https://twitter.com/QuidamAngela"><i class="fab fa-twitter"></i> @QuidamAngela</a></span>
+            </div>
+          </div>
+          <div class="contributor card" style="visibility:hidden">
+            <div class="card-body">
+              <h5 class="card-title">Title</h5>
+              <p class="card-role">Role</p>
+              <p class="card-text">Card text</p>
+            </div>
+            <div class="card-footer">
             </div>
           </div>
         </div>
