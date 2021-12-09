@@ -39,6 +39,9 @@ comments: true
               <p class="card-text">TTRPG designer, short fiction author, and video creator (terms & conditions apply)</p>
             </div>
             <div class="card-footer">
+              <span class="contributor-contact"><a href="https://twitter.com/thesiegeandrew"><i class="fab fa-twitter"></i> @thesiegeandrew</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://s-15studios.com/"><i class="fas fa-link"></i> s-15studios.com</a></span>
             </div>
           </div>
         </div>
