@@ -100,13 +100,16 @@ comments: true
               <span class="contributor-contact"><a href="https://twitter.com/QuidamAngela"><i class="fab fa-twitter"></i> @QuidamAngela</a></span>
             </div>
           </div>
-          <div class="contributor card" style="visibility:hidden">
+          <div class="contributor card">
             <div class="card-body">
-              <h5 class="card-title">Title</h5>
-              <p class="card-role">Role</p>
-              <p class="card-text">Card text</p>
+              <h5 class="card-title">D.M.G./Gharmey Hapscoy</h5>
+              <p class="card-role">Writer and Pixelartist (mostly weapons and machinery)</p>
+              <p class="card-text">Hi! I'm D.M.G., I work on pixelart and tabletop RPGs, mostly sci-fi and fantasy!</p>
             </div>
             <div class="card-footer">
+              <span class="contributor-contact"><a href="https://twitter.com/DMG_Tha_Whale"><i class="fab fa-twitter"></i> @DMG_Tha_Whale</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://gharmey-hapscoy.newgrounds.com/art/"><i class="fas fa-link"></i> gharmey-hapscoy.newgrounds.com/art/</a></span>
             </div>
           </div>
         </div>
