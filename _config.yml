@@ -23,6 +23,16 @@ authors:
       # web: https://www.oakenboro.blog
     twitter: https://twitter.com/oakenboro
     description: "Somtimes writes or writes about RPGs"
+  dmg:
+    name: D.M.G./Gharmey Hapscoy
+    display_name: D.M.G./Gharmey Hapscoy
+    avatar: /assets/images/avatars/dmg-avatar.png
+    web: https://gharmey-hapscoy.newgrounds.com/art/
+    twitter: https://twitter.com/DMG_Tha_Whale
+    description: "Hi! I'm D.M.G., I work on pixelart and tabletop RPGs, mostly sci-fi and fantasy!"
+  librivore42:
+    name: Librivore42
+    display_name: Librivore42
 
 # Plugins
 plugins:

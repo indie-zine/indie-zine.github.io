@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The World Building Chronicle"
-author: D.M.G.
+author: dmg
 categories: []
 image: assets/images/2022-03-12-the-world-building-chronicle/image4.png
 featured: true
