@@ -9,9 +9,9 @@ favicon: 'assets/images/logo.png'
   # mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-domain: voenocturo.github.io
-url: https://voenocturo.github.io
-baseurl: /in_die-zine
+domain: indie-zine.github.io
+url: https://indie-zine.github.io
+baseurl: /
 
 # Authors
 authors:

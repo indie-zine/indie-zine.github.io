@@ -1,6 +1,6 @@
 # in_die-zine
 
-See the site live at https://voenocturo.github.io/in_die-zine/
+See the site live at https://indie-zine.github.io
 
 ## Building/prerequisites
 
