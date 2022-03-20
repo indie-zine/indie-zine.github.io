@@ -113,6 +113,26 @@ comments: true
             </div>
           </div>
         </div>
+        <div class="card-deck contributors-row">
+          <div class="contributor card">
+            <div class="card-body">
+              <h5 class="card-title">Librivore42</h5>
+              <p class="card-role">Writer</p>
+              <p class="card-text">Librivore42 is a hobbyist writer, crafter and game dev-er who believes in learning by doing, and trying every skill at least once.</p>
+            </div>
+            <div class="card-footer">
+            </div>
+          </div>
+          <div class="contributor card" style="visibility:hidden">
+            <div class="card-body">
+              <h5 class="card-title">Title</h5>
+              <p class="card-role">Role</p>
+              <p class="card-text">Card text</p>
+            </div>
+            <div class="card-footer">
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>

@@ -33,6 +33,8 @@ authors:
   librivore42:
     name: Librivore42
     display_name: Librivore42
+    avatar: /assets/images/avatars/librivore42-avatar.png
+    description: "Librivore42 is a hobbyist writer, crafter and game dev-er who believes in learning by doing, and trying every skill at least once."
 
 # Plugins
 plugins:
