@@ -1,6 +1,6 @@
 # in_die-zine
 
-See the site live at https://indie-zine.github.io
+See the site live at https://www.indiezine.games
 
 ## Building/prerequisites
 

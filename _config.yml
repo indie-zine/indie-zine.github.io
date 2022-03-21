@@ -9,8 +9,8 @@ favicon: 'assets/images/logo.png'
   # mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-domain: indie-zine.github.io
-url: https://indie-zine.github.io
+domain: www.indiezine.games
+url: https://www.indiezine.games
 
 # Authors
 authors:
@@ -25,14 +25,14 @@ authors:
   dmg:
     name: D.M.G./Gharmey Hapscoy
     display_name: D.M.G./Gharmey Hapscoy
-    avatar: /assets/images/avatars/dmg-avatar.png
+    avatar: assets/images/avatars/dmg-avatar.png
     web: https://twitter.com/Sector8TTRPG
     twitter: https://twitter.com/DMG_Tha_Whale
     description: "Hi! I'm D.M.G., I work on pixelart and tabletop RPGs, mostly sci-fi and fantasy!"
   librivore42:
     name: Librivore42
     display_name: Librivore42
-    avatar: /assets/images/avatars/librivore42-avatar.png
+    avatar: assets/images/avatars/librivore42-avatar.png
     description: "Librivore42 is a hobbyist writer, crafter and game dev-er who believes in learning by doing, and trying every skill at least once."
 
 # Plugins
