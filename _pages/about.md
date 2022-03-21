@@ -32,6 +32,8 @@ comments: true
               <span class="contributor-contact"><a href="https://twitter.com/san_tagoy"><i class="fab fa-twitter"></i> @san_tagoy</a></span>
               <br />
               <span class="contributor-contact"><a href="https://www.instagram.com/san_tagoy/"><i class="fab fa-instagram"></i> san_tagoy</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://tagoymakes.com/"><i class="fas fa-link"></i> tagoymakes.com</a></span>
             </div>
           </div>
           <div class="contributor card">
