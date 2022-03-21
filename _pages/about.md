@@ -7,11 +7,13 @@ comments: true
 
 <div class="row justify-content-between">
   <div class="col-md-8">
+    <!--
     <div class="row">
       <div class="col-sm-12">
         <p>This is just a sample, we can replace this with whatever content we want</p>
       </div>
     </div>
+    -->
 
     <div class="row">
       <div class="col-sm-12">
