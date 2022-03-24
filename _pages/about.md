@@ -7,13 +7,14 @@ comments: true
 
 <div class="row justify-content-between">
   <div class="col-md-8">
-    <!--
     <div class="row">
       <div class="col-sm-12">
-        <p>This is just a sample, we can replace this with whatever content we want</p>
+        <p>in*die zine is a quarterly zine featuring high-quality indie tabletop roleplaying game content from diverse voices from all across the indie TTRPG space.</p>
+<p>All proceeds go directly to the creators, and a purchase is a vote of confidence in the indie TTRPG scene!</p>
+<p>The December 2021 issue is available now on <a href="https://indie-zine.itch.io/december-2021">Itch.io</a>.</p>
+<p>Interested in contributing writing, art or design skills? <a href="mailto:%69%6e%2e%64%69%65%2e%74%74%72%70%67%2e%7a%69%6e%65%40%67%6d%61%69%6c%2e%63%6f%6d">Email the team</a> or <a href="https://www.twitter.com/in_die_zine">contact us on Twitter</a>.</p>
       </div>
     </div>
-    -->
 
     <div class="row">
       <div class="col-sm-12">
