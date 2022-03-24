@@ -125,6 +125,11 @@ comments: true
               <p class="card-text">Librivore42 is a hobbyist writer, crafter and game dev-er who believes in learning by doing, and trying every skill at least once.</p>
             </div>
             <div class="card-footer">
+              <span class="contributor-contact"><a href="https://librivore42.itch.io/"><i class="fas fa-link"></i> librivore42.itch.io/</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://instagram.com/varqworks"><i class="fab fa-instagram"></i> varqworks</a></span>
+              <br />
+              <span class="contributor-contact"><a href="https://twitter.com/SharkyandSmiles"><i class="fab fa-twitter"></i> @SharkyandSmiles</a></span>
             </div>
           </div>
           <div class="contributor card" style="visibility:hidden">
