@@ -2,13 +2,13 @@
 
 layout: post
 
-title:  "Preserve Yogurt! An Adventure; on Power and American-isms"
+title: "Preserve Yogurt! An Adventure; on Power and American-isms"
 
 author: nicosantagoy
 
 categories: []
 
-image: assets\images\2022-05-15-preserve-yogurt\main-image.png
+image: assets/images/2022-05-15-preserve-yogurt/main-image.png
 
 featured: true
 
