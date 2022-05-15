@@ -8,7 +8,7 @@ author: nicosantagoy
 
 categories: []
 
-image: assets\images\2022-05-15-preserve-yogurt\main-image.png
+image: assets/images/2022-05-15-preserve-yogurt/main-image.png
 
 featured: true
 
