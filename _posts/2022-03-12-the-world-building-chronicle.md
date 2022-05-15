@@ -58,3 +58,6 @@ As you can see, all of the continents put together form a distinctly draconic sh
 As so, if you feel like going deep into your world&#39;s origin, then by all means please do, but if you would rather be brief, there&#39;s nothing wrong with that.
 
 On that, I will be concluding this first part of the World Building Chronicle! Next time we will zoom in, and talk about making a country!
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z66LNKG)
