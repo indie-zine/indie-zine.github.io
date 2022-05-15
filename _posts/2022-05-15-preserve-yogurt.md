@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  "Preserve Yogurt! An Adventure; on Power and American-isms"
+title: "Preserve Yogurt! An Adventure; on Power and American-isms"
 
 author: nicosantagoy
 
