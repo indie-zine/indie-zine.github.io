@@ -6,7 +6,7 @@ title: "Preserve Yogurt! An Adventure; on Power and American-isms"
 
 author: nicosantagoy
 
-categories: []
+categories: [Adventure, Content]
 
 image: assets/images/2022-05-15-preserve-yogurt/main-image.png
 
