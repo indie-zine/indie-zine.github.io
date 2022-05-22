@@ -2,7 +2,7 @@
 layout: post
 title:  "The World Building Chronicle"
 author: dmg
-categories: []
+categories: [How-to]
 image: assets/images/2022-03-12-the-world-building-chronicle/image4.png
 featured: true
 ---
