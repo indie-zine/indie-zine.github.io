@@ -51,5 +51,5 @@ that follow. It's almost preferable that I had chosen nothing akin to maturity, 
 			I am at least now someone who,
 			unlike that self in that one nightmare
 			after a day or two of forgetting my meds,
-			now has better coffee.
+			has better coffee.
 ```
