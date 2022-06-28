@@ -4,7 +4,7 @@ title:  "The World Building Chronicle"
 author: dmg
 categories: [How-to]
 image: assets/images/2022-03-12-the-world-building-chronicle/image4.png
-featured: true
+featured: false
 ---
 
 Welcome! I&#39;m D.M.G., and here in this Chronicle, I will be talking about world building, that is, how to build a world and fill it up, in multiple ways. All of this will be based upon my own experience, which I will try to detail as much as I can. As we go on, we will get more and more specific with the world building process, basically zooming into the world more and more as we progress, going from the global setting, onto a country, maybe talking about fauna and so on.
