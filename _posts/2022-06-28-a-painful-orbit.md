@@ -14,6 +14,8 @@ featured: true
 
 ---
 
+###### Thinking about how a lot of songs and poems talk about relationships, often ending, but not a lot of them look at both sides of the story. I thought it would be interesting to explore that and see how two very different views of the same events, never overlapping or communicating, create a situation where you slowly drift apart, until you’re suddenly out of eachother’s orbit.
+
 # A painful orbit
 
 ```
