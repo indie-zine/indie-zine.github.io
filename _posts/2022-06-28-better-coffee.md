@@ -2,7 +2,7 @@
 
 layout: post
 
-title: How I learned to make better coffee
+title: "How I learned to make better coffee"
 
 author: nicosantagoy
 
