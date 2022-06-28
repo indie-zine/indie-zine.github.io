@@ -6,7 +6,7 @@ title: "A Painful Orbit"
 
 author: librivore42
 
-categories: [Poems]
+categories: [poems]
 
 image: assets\images\2022-06-28-a-painful-orbit\orbit-01.jpg
 
