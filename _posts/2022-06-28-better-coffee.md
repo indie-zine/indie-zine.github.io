@@ -23,7 +23,7 @@ I wanted something akin to maturity, the bold
 bugbear that nags inexorably at my thoughts:
 am I mature enough? I don't know, ask those
 I've lived with, and I haven't really lived
-				with many people.
+			with many people.
 
 I was a stranger at times, perplexingly so, to you whom I preferred.
 That's not great is it? It really isn't because whenever I asked this
@@ -39,17 +39,17 @@ I had no volition of the sort and it, of course, blew up in my face.
 The not unusual story of providing something contrary to what the other party
 wanted. I bore shields that spoke of nothing profound about myself for
 the longest time, the act got old fast, as old as sin, and my sins were borne
-on my soul to the point of your apparent boredom, not your fault.
+by my soul to the point of your apparent boredom, not your fault.
 I'd have wanted to tear my eyes out too if I were in your shoes.
 My lamentations weren't exciting in the adventurous sort of way and
 adventure was evidently not in any of my names, something you've
-				hopefully crossed with an "X" on your final list.
+			hopefully crossed with an "X" on your final list.
 
 She found someone, folks. Someone who has nothing but a sword and an open heart.
 I can't help but be happy at that fact. I am not cut out for coveting and all the nasty things
 that follow. It's almost preferable that I had chosen nothing akin to maturity, a sad, sordid truth:
-				I am at least now someone who,
-				unlike that self in that one nightmare
-				after a day or two of forgetting my meds,
-				now has better coffee.
+			I am at least now someone who,
+			unlike that self in that one nightmare
+			after a day or two of forgetting my meds,
+			now has better coffee.
 ```
