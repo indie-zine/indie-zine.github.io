@@ -164,6 +164,3 @@ ___
 - **An assortment of spoiled children from the Po-on family**
 	- no redeeming qualities
 	- heinously remorseless about their family's blood money
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z66LNKG)
