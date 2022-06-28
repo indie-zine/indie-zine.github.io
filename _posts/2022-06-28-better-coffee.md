@@ -18,6 +18,7 @@ featured: true
 
 # How I learned to make better coffee
 
+```
 I wanted something akin to maturity, the bold
 bugbear that nags inexorably at my thoughts:
 am I mature enough? I don't know, ask those
@@ -51,3 +52,4 @@ that follow. It's almost preferable that I had chosen nothing akin to maturity, 
 				unlike that self in that one nightmare
 				after a day or two of forgetting my meds,
 				now has better coffee.
+```
