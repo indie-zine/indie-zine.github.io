@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  "A Painful Orbit"
+title: A Painful Orbit
 
 author: librivore42
 
