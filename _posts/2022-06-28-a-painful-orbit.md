@@ -24,40 +24,40 @@ Much longer than two
 But you started to feel like a lifelong memory
 Still setting two, sitting alone
 						
-							We were still friends, once
-							Many yesterdays ago
-							When did I become a stranger
-							Feeling so alone at your table?
+			We were still friends, once
+			Many yesterdays ago
+			When did I become a stranger
+			Feeling so alone at your table?
 
 My phone needs space for new memories
 That aren’t ugly angles and unflattering light
 You were never good at photography
 I hate them, and kept them all
 
-							We could laugh, once
-							Until you thought I was laughing at you
-							When did you start to see just my mistakes
-							Instead of me?
+			We could laugh, once
+			Until you thought I was laughing at you
+			When did you start to see just my mistakes
+			Instead of me?
 
 I can’t remember when we met
-								We met a lifetime ago
+			We met a lifetime ago
 I was always unhappy
-								You became so unhappy
+			You became so unhappy
 
 I thought you could help
 							
-								I needed help too
+			I needed help too
 
 
 I’m still alone, more than ever
 								
 								
-								We could have been better
+			We could have been better
 
 
 Yesterday you loved me
 
 
 
-								But did you ever love me?
+			But did you ever love me?
 ```
